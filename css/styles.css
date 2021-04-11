@@ -138,9 +138,11 @@ li {
   padding-left: 0;
 }
 
-/*.option:nth-child(3) { padding-right: 0; }
+.option:nth-child(3) {
+  padding-right: 0;
+}
 
-#chosen-colour {
+/*#chosen-colour {
   border: 1px solid #e5e5e5;
   height: 50px;
   width: 100px;
