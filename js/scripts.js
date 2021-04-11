@@ -6,15 +6,15 @@ var navigate = (function() {
     $('.' + dataName).toggle();
   });
 })();
-/*
+
 // Set chosen colour and call cell colour function
-function setColour(colour){
+function setColour(colour) {
   $('#chosen-colour').css('background-color', colour);
-  $( '#artboard td' ).click(function() {
+  $('#artboard td').click(function() {
     colourCell($(this), colour);
   });
 };
-
+/*
 // Set cell colour
 function colourCell(cell, colour){
   cell.css("background-color", colour);
