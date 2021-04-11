@@ -14,12 +14,12 @@ function setColour(colour) {
     colourCell($(this), colour);
   });
 };
-/*
+
 // Set cell colour
-function colourCell(cell, colour){
+function colourCell(cell, colour) {
   cell.css("background-color", colour);
 };
-
+/*
 // When a cell on the colour table is clicked
 $('.colourtable td').click(function(){
   $( '.colourtable td' ).css('border-color', '#e5e5e5');
