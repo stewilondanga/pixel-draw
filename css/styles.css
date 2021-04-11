@@ -175,9 +175,11 @@ button {
   padding: 0;
 }
 
-/*#artboard { border-collapse: collapse; }
-
 #artboard {
+  border-collapse: collapse;
+}
+
+/*#artboard {
   clear: both;
   background-color: #ffffff;
   margin: 30px 0;
