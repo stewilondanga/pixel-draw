@@ -19,15 +19,15 @@ function setColour(colour) {
 function colourCell(cell, colour) {
   cell.css("background-color", colour);
 };
-/*
+
 // When a cell on the colour table is clicked
-$('.colourtable td').click(function(){
-  $( '.colourtable td' ).css('border-color', '#e5e5e5');
+$('.colourtable td').click(function() {
+  $('.colourtable td').css('border-color', '#e5e5e5');
   $(this).css('border-color', '#000000');
   theColour = $(this).css('background-color');
   setColour(theColour);
 });
-
+/*
 // When a colour is picked on the colour picker
 $('#colour-picker').on('change', function(){
   theColour = $(this).val();
