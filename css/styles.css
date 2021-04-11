@@ -129,12 +129,12 @@ li {
   margin: 30px 0;
 }
 
-/*.option {
+.option {
   float: left;
   padding: 0 30px 30px 30px;
 }
 
-.option:nth-child(1) { padding-left: 0; }
+/*.option:nth-child(1) { padding-left: 0; }
 .option:nth-child(3) { padding-right: 0; }
 
 #chosen-colour {
