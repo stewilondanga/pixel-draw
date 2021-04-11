@@ -168,14 +168,14 @@ button {
   margin-top: 10px;
 }
 
-/*.colourtable td, #artboard td {
+.colourtable td, #artboard td {
   border: 1px solid #e5e5e5;
   width: 20px;
   height: 20px;
   padding: 0;
 }
 
-#artboard { border-collapse: collapse; }
+/*#artboard { border-collapse: collapse; }
 
 #artboard {
   clear: both;
