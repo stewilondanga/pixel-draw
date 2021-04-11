@@ -110,12 +110,12 @@ body {
   transition-delay: 0.4s;
 }
 
-/*h1, h2, i, li, button {
+h1, h2, i, li, button {
   font-family: 'Press Start 2P', cursive;
   line-height: 1.5;
 }
 
-h1, h2 {
+/*h1, h2 {
   text-align: center;
 }
 
