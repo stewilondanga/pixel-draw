@@ -134,8 +134,11 @@ li {
   padding: 0 30px 30px 30px;
 }
 
-/*.option:nth-child(1) { padding-left: 0; }
-.option:nth-child(3) { padding-right: 0; }
+.option:nth-child(1) {
+  padding-left: 0;
+}
+
+/*.option:nth-child(3) { padding-right: 0; }
 
 #chosen-colour {
   border: 1px solid #e5e5e5;
