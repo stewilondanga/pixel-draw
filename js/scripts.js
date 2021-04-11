@@ -27,13 +27,13 @@ $('.colourtable td').click(function() {
   theColour = $(this).css('background-color');
   setColour(theColour);
 });
-/*
+
 // When a colour is picked on the colour picker
-$('#colour-picker').on('change', function(){
+$('#colour-picker').on('change', function() {
   theColour = $(this).val();
   setColour(theColour);
 });
-
+/*
 // Clear all cells
 $( '#clear' ).click(function() {
   $('#artboard td').css('background-color', 'transparent');
