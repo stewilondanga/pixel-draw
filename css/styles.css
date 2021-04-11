@@ -1,4 +1,14 @@
 @import url('https://fonts.googleapis.com/css?family=Press+Start+2P');
+
+body {
+  display: flex;
+  flex-flow: column wrap;
+  align-items: center;
+  align-content: center;
+  background: linear-gradient(#f3f3f3, #f3f3f3);
+  padding: 50px;
+}
+
 /*body {
   text-align: center;
   font-family: courier;
@@ -108,15 +118,6 @@
   transition-delay: 0.4s;
 }
 
-
-body {
-  display: flex;
-  flex-flow: column wrap;
-  align-items: center;
-  align-content: center;
-  background: linear-gradient(#f3f3f3, #f3f3f3);
-  padding: 50px;
-}
 
 h1, h2, i, li, button {
   font-family: 'Press Start 2P', cursive;
