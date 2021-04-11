@@ -33,8 +33,8 @@ $('#colour-picker').on('change', function() {
   theColour = $(this).val();
   setColour(theColour);
 });
-/*
+
 // Clear all cells
-$( '#clear' ).click(function() {
+$('#clear').click(function() {
   $('#artboard td').css('background-color', 'transparent');
 });
