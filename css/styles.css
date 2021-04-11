@@ -179,13 +179,13 @@ button {
   border-collapse: collapse;
 }
 
-/*#artboard {
+#artboard {
   clear: both;
   background-color: #ffffff;
   margin: 30px 0;
 }
 
-#contact h1 {
+/*#contact h1 {
   font-family: helvetica;
   font-weight: normal;
   text-align: center;
